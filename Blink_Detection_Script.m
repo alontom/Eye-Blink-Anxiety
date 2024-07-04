@@ -1,3 +1,5 @@
+% The authors give no warranty for the correct functioning of the software
+% and cannot be held legally accountable.
 
 %% Initiate variables
 
