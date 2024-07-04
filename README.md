@@ -1,1 +1,3 @@
 # Eye-Blink-from-EOG
+This repository contains additional resources to the article: ...
+
