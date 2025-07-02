@@ -1,3 +1,3 @@
-# Eye-Blink-from-EOG
+# Eye-Blink-Anxiety
 This repository contains additional resources to the article: ...
 
